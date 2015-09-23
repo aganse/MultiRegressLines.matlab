@@ -1,7 +1,9 @@
-MultiRegressLines.matlab, 2002-2015
-Andy Ganse, Applied Physics Laboratory, University of Washington
-aganse@apl.washington.edu
-----------------------------------------------------------------
+![screenshot](screenshot.png)
+
+MultiRegressLines.matlab, 2002-2015  
+Andy Ganse, Applied Physics Laboratory, University of Washington  
+aganse@apl.washington.edu  
+
 
 MultiRegressLines includes the Matlab script regress2lines.m that
 runs a two-line-segment regression on a dataset of X,Y data.
@@ -20,4 +22,3 @@ nonlinear).
 
 Please see my webapge explaining the details of this topic:
 http://staff.washington.edu/aganse/mpregression/mpregression.html
-
